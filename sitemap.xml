@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-08-15T13:22:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/markdown/</loc>
+    <lastmod>2020-08-15T13:22:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/markdown_1/</loc>
+    <lastmod>2020-08-15T13:22:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/markdown_2/</loc>
+    <lastmod>2020-08-15T13:22:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/markdown_3/</loc>
+    <lastmod>2020-08-15T13:22:10+05:30</lastmod>
+  </url>
+  
+</urlset>
